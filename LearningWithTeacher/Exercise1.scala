@@ -1,5 +1,5 @@
 // Input 6: it should be print 0 1 1 2 3 5 8 
-
+import scala.io.Stdin.read
 object MainObject{
     def main(args: Array[String]){
         var i:Int=0
